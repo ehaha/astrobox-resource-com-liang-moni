@@ -1,0 +1,41 @@
+{
+  "item": {
+    "id": "com.liang.moni",
+    "restype": "quick_app",
+    "name": "素简人生-最终版",
+    "description": "一个人生小游戏，内有股票、快递派送、直播、多个街道、体力属性等，多玩法体验人生，可以当做属性游戏玩。",
+    "preview": [
+      "media/band-2026-10-01-22-00-53.png",
+      "media/band-2026-10-01-22-02-16.png",
+      "media/band-2026-10-01-22-02-24.png"
+    ],
+    "icon": "media/logo.png",
+    "cover": "media/素简人生-封面-1200x800.jpg",
+    "author": [
+      {
+        "name": "良木逸云",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "激活链接",
+      "url": "https://yanzheng.kgliang.top/",
+      "icon": "Link"
+    }
+  ],
+  "downloads": {
+    "xmb9": {
+      "version": "1.7.5",
+      "file_name": "downloads/com.liang.moni.release.1.7.5.rpk",
+      "versionCode": 1
+    },
+    "xmb9p": {
+      "version": "1.7.5",
+      "file_name": "downloads/com.liang.moni.release.1.7.5.rpk",
+      "versionCode": 1
+    }
+  },
+  "ext": {}
+}
